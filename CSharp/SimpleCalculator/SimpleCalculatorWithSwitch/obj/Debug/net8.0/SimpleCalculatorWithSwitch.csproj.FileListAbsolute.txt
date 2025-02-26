@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\Dako\Projects\CSharp\SimpleCalculator\SimpleCalculatorWithSwitch\bin\Debug\net8.0\SimpleCalculatorWithSwitch.exe
+C:\Users\Администратор\Desktop\Dako\Projects\CSharp\SimpleCalculator\SimpleCalculatorWithSwitch\bin\Debug\net8.0\SimpleCalculatorWithSwitch.deps.json
+C:\Users\Администратор\Desktop\Dako\Projects\CSharp\SimpleCalculator\SimpleCalculatorWithSwitch\bin\Debug\net8.0\SimpleCalculatorWithSwitch.runtimeconfig.json
+C:\Users\Администратор\Desktop\Dako\Projects\CSharp\SimpleCalculator\SimpleCalculatorWithSwitch\bin\Debug\net8.0\SimpleCalculatorWithSwitch.dll
+C:\Users\Администратор\Desktop\Dako\Projects\CSharp\SimpleCalculator\SimpleCalculatorWithSwitch\bin\Debug\net8.0\SimpleCalculatorWithSwitch.pdb
+C:\Users\Администратор\Desktop\Dako\Projects\CSharp\SimpleCalculator\SimpleCalculatorWithSwitch\obj\Debug\net8.0\SimpleCalculatorWithSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Dako\Projects\CSharp\SimpleCalculator\SimpleCalculatorWithSwitch\obj\Debug\net8.0\SimpleCalculatorWithSwitch.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Dako\Projects\CSharp\SimpleCalculator\SimpleCalculatorWithSwitch\obj\Debug\net8.0\SimpleCalculatorWithSwitch.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Dako\Projects\CSharp\SimpleCalculator\SimpleCalculatorWithSwitch\obj\Debug\net8.0\SimpleCalculatorWithSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Dako\Projects\CSharp\SimpleCalculator\SimpleCalculatorWithSwitch\obj\Debug\net8.0\SimpleCalculatorWithSwitch.sourcelink.json
+C:\Users\Администратор\Desktop\Dako\Projects\CSharp\SimpleCalculator\SimpleCalculatorWithSwitch\obj\Debug\net8.0\SimpleCalculatorWithSwitch.dll
+C:\Users\Администратор\Desktop\Dako\Projects\CSharp\SimpleCalculator\SimpleCalculatorWithSwitch\obj\Debug\net8.0\refint\SimpleCalculatorWithSwitch.dll
+C:\Users\Администратор\Desktop\Dako\Projects\CSharp\SimpleCalculator\SimpleCalculatorWithSwitch\obj\Debug\net8.0\SimpleCalculatorWithSwitch.pdb
+C:\Users\Администратор\Desktop\Dako\Projects\CSharp\SimpleCalculator\SimpleCalculatorWithSwitch\obj\Debug\net8.0\SimpleCalculatorWithSwitch.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Dako\Projects\CSharp\SimpleCalculator\SimpleCalculatorWithSwitch\obj\Debug\net8.0\ref\SimpleCalculatorWithSwitch.dll

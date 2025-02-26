@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\Dako\\Projects\\CSharp\\SimpleCalculator\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8300E6DC-3A3C-4C48-86BD-382881DB4E75}|SimpleCalculatorWithSwitch\\SimpleCalculatorWithSwitch.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\desktop\\dako\\projects\\csharp\\simplecalculator\\simplecalculatorwithswitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8300E6DC-3A3C-4C48-86BD-382881DB4E75}|SimpleCalculatorWithSwitch\\SimpleCalculatorWithSwitch.csproj|solutionrelative:simplecalculatorwithswitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE5A088C-536B-4C42-A711-E5A724160194}|SimpleCalculator\\SimpleCalculator.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\desktop\\dako\\projects\\csharp\\simplecalculator\\simplecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE5A088C-536B-4C42-A711-E5A724160194}|SimpleCalculator\\SimpleCalculator.csproj|solutionrelative:simplecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -24,11 +28,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\Dako\\Projects\\CSharp\\SimpleCalculator\\SimpleCalculatorWithSwitch\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleCalculatorWithSwitch\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\Dako\\Projects\\CSharp\\SimpleCalculator\\SimpleCalculatorWithSwitch\\Program.cs",
+              "RelativeToolTip": "SimpleCalculatorWithSwitch\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAADAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:19:37.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\Dako\\Projects\\CSharp\\SimpleCalculator\\SimpleCalculator\\Program.cs",
               "RelativeDocumentMoniker": "SimpleCalculator\\Program.cs",
               "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\Desktop\\Dako\\Projects\\CSharp\\SimpleCalculator\\SimpleCalculator\\Program.cs",
               "RelativeToolTip": "SimpleCalculator\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAIwDYAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T05:47:06.728Z",
               "EditorCaption": ""

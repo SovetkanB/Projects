@@ -12,3 +12,4 @@ C:\Users\Администратор\Desktop\Dako\Projects\CSharp\SimpleCalculato
 C:\Users\Администратор\Desktop\Dako\Projects\CSharp\SimpleCalculator\SimpleCalculator\obj\Debug\net8.0\SimpleCalculator.pdb
 C:\Users\Администратор\Desktop\Dako\Projects\CSharp\SimpleCalculator\SimpleCalculator\obj\Debug\net8.0\SimpleCalculator.genruntimeconfig.cache
 C:\Users\Администратор\Desktop\Dako\Projects\CSharp\SimpleCalculator\SimpleCalculator\obj\Debug\net8.0\ref\SimpleCalculator.dll
+C:\Users\Администратор\Desktop\Dako\Projects\CSharp\SimpleCalculator\SimpleCalculator\obj\Debug\net8.0\SimpleCalculator.sourcelink.json
